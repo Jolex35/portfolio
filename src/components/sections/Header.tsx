@@ -67,21 +67,21 @@ const Header = () => {
       </header>
 
       <div className="flex justify-center gap-5 bg-yellow pb-2.5 pt-20 dark:bg-[#494949]">
-        <Icon
+          <Icon
+              className={clsx(
+                  "h-full cursor-pointer text-[50px] text-gray-dark ",
+                  i18n.language === "fr" && "brightness-50",
+              )}
+              icon="twemoji-flag-for-flag-france"
+              onClick={() => i18n.changeLanguage("fr")}
+          />
+          <Icon
           className={clsx(
             "h-full cursor-pointer text-[50px] text-gray-dark ",
             i18n.language === "en" && "brightness-50",
           )}
           icon="twemoji-flag-for-flag-united-kingdom"
           onClick={() => i18n.changeLanguage("en")}
-        />
-        <Icon
-          className={clsx(
-            "h-full cursor-pointer text-[50px] text-gray-dark ",
-            i18n.language === "pl" && "brightness-50",
-          )}
-          icon="twemoji-flag-for-flag-poland"
-          onClick={() => i18n.changeLanguage("pl")}
         />
       </div>
     </>

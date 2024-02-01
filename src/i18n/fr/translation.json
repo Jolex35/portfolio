@@ -2,10 +2,10 @@
   "basic_info": {
     "name": "Jolas Alex",
     "titles": [
-      "Front-end Developer",
-      "Back-end Developer",
-      "Great coworker",
-      "Cooking passionate"
+      "Developer Front-end",
+      "Developer Back-end",
+      "Collègue sympathique",
+      "Passionné de cuisine"
     ],
     "socials": [
       {
@@ -25,7 +25,7 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Jolas Alex. I'm a front-end developer. I'm passionate about web development and I love to learn new things. I'm currently working in apprenticeship at Equans Ineo Energy & Systems. I'm also a student at the Blagnac university institut of Blagnac. I'm studying Computer Science. I'm looking for new opportunities to grow as a developer. I'm open to new challenges and I'm not afraid of them. I'm a team player and I love to work with people. I'm also a cooking passionate. I love to cook and try new recipes. I'm also a big fan of board games. I love to play them with my friends.",
+    "content": " 👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
     "image": "myProfile.jpg",
     "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
   },

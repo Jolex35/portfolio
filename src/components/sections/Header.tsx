@@ -15,7 +15,7 @@ const Header = () => {
 
   return (
     <>
-      <header className="h-[650px] w-[100%] bg-yellow dark:bg-[#494949]">
+      <header className="h-[650px] w-[100%] bg-green dark:bg-[#494949]">
         <div className="flex h-full flex-col items-center justify-center gap-5">
           <div>
             <Icon
@@ -45,7 +45,7 @@ const Header = () => {
           <Switch
             checked={darkTheme}
             onChange={toggleTheme}
-            offColor="#baaa80"
+            offColor="#567d59"
             onColor="#353535"
             className="react-switch mx-auto"
             width={90}
@@ -66,7 +66,7 @@ const Header = () => {
         </div>
       </header>
 
-      <div className="flex justify-center gap-5 bg-yellow pb-2.5 pt-20 dark:bg-[#494949]">
+      <div className="flex justify-center gap-5 bg-green pb-2.5 pt-20 dark:bg-[#494949]">
           <Icon
               className={clsx(
                   "h-full cursor-pointer text-[50px] text-gray-dark ",

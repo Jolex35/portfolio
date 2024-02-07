@@ -23,11 +23,11 @@
     ]
   },
   "about_me": {
-    "title": "About me",
-    "greeting": "Hi",
-    "content": " 👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-    "image": "myProfile.jpg",
-    "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
+    "title": "À propos de moi",
+    "greeting": "Bonjour ",
+    "content": " 👋 Je suis Jolas Alex, un développeur fullstack passionné avec une expérience significative acquise au cours de mon alternance. Ma passion pour l'informatique m'a conduit à explorer et maîtriser les domaines front-end et back-end du développement web, ainsi que d'autres technologies émergentes.\n\nEn dehors du monde de la programmation, j'apprécie m'adonner à ma passion pour la cuisine, en explorant de nouvelles recettes et techniques culinaires. Les jeux vidéo occupent également une place importante dans ma vie, non seulement comme divertissement, mais aussi comme source d'inspiration pour des approches créatives et des défis intellectuels.\n\nJe suis constamment avide de connaissances et de nouvelles expériences, ce qui se traduit par ma curiosité insatiable et mon désir d'apprendre. Que ce soit en explorant de nouvelles technologies, en perfectionnant mes compétences culinaires ou en découvrant de nouveaux univers vidéoludiques, je suis toujours prêt à relever de nouveaux défis et à élargir mes horizons. ",
+    "image": "myProfile.png",
+    "tech_stacks": ["devicon:java", "devicon:react", "devicon:typescript"]
   },
   "projects": {
     "title": "projects",
@@ -57,12 +57,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "STDS",
+        "startDate": "2023",
+        "description": "STDS est un projet de dévelopement consistant à réaliser une application mobile permettant de récupérer les données d'une tireuse à bière connectée. L'application permett de visualiser les données de consommation de bière, de gérer la température et de réparer la tireuse en cas de panne.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/STDS/p1.jpg",
+          "images/portfolio/STDS/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -71,32 +71,36 @@
             "name": "React"
           },
           {
-            "class": "teenyicons:javascript-outline",
-            "name": "JavaScript"
+            "class": "teenyicons:typescript-solid",
+            "name": "TypeScript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Flopithèque",
+        "startDate": "2024",
+        "description": "Flopithèque est un projet de développement consistant à réaliser une application web permettant de gérer une bibliothèque. L'application propose un site web pour les utilisateurs et un back-office pour les administrateurs. Les utilisateurs peuvent consulter les livres, se connecter à leur compte adhérent et en emprunter une fois connecté. Les administrateurs peuvent gérer les livres, les utilisateurs et les emprunts.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/flopitheque/p1.jpg",
+          "images/portfolio/flopitheque/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "mdi:angular",
-            "name": "Angular"
-          },
-          {
-            "class": "teenyicons:typescript-outline",
+            "class": "devicon:typescript",
             "name": "TypeScript"
           },
           {
-            "class": "devicon:csharp",
-            "name": "C#"
+            "class": "devicon:angular",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon:php",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon:symfony",
+            "name": "Symfony"
           }
         ]
       }
@@ -126,8 +130,8 @@
         "level": "90"
       },
       {
-        "name": "JavaScript",
-        "class": "teenyicons:javascript-solid",
+        "name": "React",
+        "class": "teenyicons:react",
         "level": "70"
       },
       {

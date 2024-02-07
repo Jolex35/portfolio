@@ -10,7 +10,7 @@ interface BadgeProps {
 }
 
 const Badge = ({ text }: BadgeProps) => (
-  <span className="rounded-xl bg-yellow px-[5px] py-[2px] text-sm dark:bg-[#919191] dark:text-white">
+  <span className="rounded-xl bg-green px-[5px] py-[2px] text-sm dark:bg-[#919191] dark:text-white">
     {text}
   </span>
 );
@@ -19,7 +19,7 @@ const Experience = () => {
   const { t } = useTranslation();
 
   return (
-    <section className="bg-yellow px-3 py-10 pb-20 dark:bg-[#494949] md:px-0">
+    <section className="bg-green px-3 py-10 pb-20 dark:bg-[#494949] md:px-0">
       <h2 className="py-10 text-center text-xl font-medium uppercase tracking-widest text-white">
         {t("experience.title")}
       </h2>
@@ -30,7 +30,7 @@ const Experience = () => {
             key={exp.title}
             date={exp.years}
             dateClassName="dark:text-white"
-            iconClassName="bg-[#AE944F] text-white dark:bg-[#919191]"
+            iconClassName="bg-[#567d59] text-white dark:bg-[#919191]"
             icon={<Icon icon={exp.mainTechIcon} />}
             className="dark:brightness-80 dark:filter"
 
@@ -48,7 +48,7 @@ const Experience = () => {
           </VerticalTimelineElement>
         ))}
         <VerticalTimelineElement
-          iconClassName="bg-[#AE944F] text-white dark:bg-[#919191]"
+          iconClassName="bg-[#567d59] text-white dark:bg-[#919191]"
           icon={<Icon icon="eos-icons:hourglass" />}
         />
       </VerticalTimeline>

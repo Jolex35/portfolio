@@ -31,6 +31,7 @@ export default {
       white: "#fff",
       black: "#000",
       yellow: "#e9d5a1",
+      green: "#88c58d",
       "gray-dark": "#353239",
       body: "#212529",
       gray: "#8492a6",

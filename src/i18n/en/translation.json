@@ -25,9 +25,9 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Jolas Alex. I'm a front-end developer. I'm passionate about web development and I love to learn new things. I'm currently working in apprenticeship at Equans Ineo Energy & Systems. I'm also a student at the Blagnac university institut of Blagnac. I'm studying Computer Science. I'm looking for new opportunities to grow as a developer. I'm open to new challenges and I'm not afraid of them. I'm a team player and I love to work with people. I'm also a cooking passionate. I love to cook and try new recipes. I'm also a big fan of board games. I love to play them with my friends.",
-    "image": "myProfile.jpg",
-    "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
+    "content": " 👋 I'm Jolas Alex, I'm a passionate fullstack developer with significant experience gained during my work-study program. My passion for IT has led me to explore and master the front-end and back-end domains of web development, as well as other emerging technologies.\n\nOutside the world of programming, I enjoy indulging my passion for cooking, exploring new recipes and culinary techniques. Video games are also an important part of my life, not only as entertainment, but also as a source of inspiration for creative approaches and intellectual challenges.\n\nI'm constantly hungry for knowledge and new experiences, which translates into my insatiable curiosity and desire to learn. Whether it's exploring new technologies, honing my culinary skills or discovering new videogame worlds, I'm always ready to take on new challenges and broaden my horizons.",
+    "image": "myProfile.png",
+    "tech_stacks": ["devicon:java", "devicon:react", "devicon:typescript"]
   },
   "projects": {
     "title": "projects",

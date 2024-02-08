@@ -2,8 +2,8 @@
   "basic_info": {
     "name": "Jolas Alex",
     "titles": [
-      "Developer Front-end",
-      "Developer Back-end",
+      "Développeur Front-end",
+      "Développeur Back-end",
       "Collègue sympathique",
       "Passionné de cuisine"
     ],
@@ -30,29 +30,37 @@
     "tech_stacks": ["devicon:java", "devicon:react", "devicon:typescript"]
   },
   "projects": {
-    "title": "projects",
+    "title": "Projets",
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gestion de projet",
+        "startDate": "2023",
+        "description": "",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gpo/p1.png",
+          "images/portfolio/gpo/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Falsimane/SAE-ALT-S3-Dev-22-23-STDS-3B-Equipe-4",
         "technologies": [
           {
-            "class": "mdi:angular",
-            "name": "Angular"
+            "class": "devicon:react",
+            "name": "React"
           },
           {
-            "class": "teenyicons:typescript-outline",
+            "class": "devicon:typescript",
             "name": "TypeScript"
           },
           {
-            "class": "devicon:csharp",
-            "name": "C#"
+            "class": "devicon:java",
+            "name": "Java"
+          },
+          {
+            "class": "devicon:quarkus",
+            "name": "Quarkus"
+          },
+          {
+            "class": "devicon:docker",
+            "name": "Docker"
           }
         ]
       },
@@ -61,18 +69,22 @@
         "startDate": "2023",
         "description": "STDS est un projet de dévelopement consistant à réaliser une application mobile permettant de récupérer les données d'une tireuse à bière connectée. L'application permett de visualiser les données de consommation de bière, de gérer la température et de réparer la tireuse en cas de panne.",
         "images": [
-          "images/portfolio/STDS/p1.jpg",
-          "images/portfolio/STDS/p2.jpg"
+          "images/portfolio/stds/p1.png",
+          "images/portfolio/stds/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Falsimane/SAE-ALT-S3-Dev-22-23-STDS-3B-Equipe-4",
         "technologies": [
           {
-            "class": "mdi:react",
+            "class": "devicon:react",
             "name": "React"
           },
           {
-            "class": "teenyicons:typescript-solid",
+            "class": "devicon:typescript",
             "name": "TypeScript"
+          },
+          {
+            "class": "devicon:ionic",
+            "name": "Ionic"
           }
         ]
       },
@@ -81,8 +93,8 @@
         "startDate": "2024",
         "description": "Flopithèque est un projet de développement consistant à réaliser une application web permettant de gérer une bibliothèque. L'application propose un site web pour les utilisateurs et un back-office pour les administrateurs. Les utilisateurs peuvent consulter les livres, se connecter à leur compte adhérent et en emprunter une fois connecté. Les administrateurs peuvent gérer les livres, les utilisateurs et les emprunts.",
         "images": [
-          "images/portfolio/flopitheque/p1.jpg",
-          "images/portfolio/flopitheque/p2.jpg"
+          "images/portfolio/flopitheque/p1.png",
+          "images/portfolio/flopitheque/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -107,7 +119,15 @@
     ]
   },
   "skills": {
-    "title": "Skills",
+    "skills": [
+      "Réaliser un développement d'application. (Applications web et mobiles)",
+      "Optimiser des applications informatiques. (Algorithmes de recherche de livre)",
+      "Administrer des systèmes informatiques communicants complexes. (Utilisation de Docker connectés)",
+      "Gérer des données de l'information. (Création et gestion de base de données)",
+      "Conduire un projet. (Gestion des projets avec Git)",
+      "Travailler dans une équipe informatique. (Projets réalisés en équipe)"
+    ],
+    "title": "Technologies",
     "icons": [
       {
         "name": "HTML 5",
@@ -120,34 +140,34 @@
         "level": "95"
       },
       {
-        "name": "Angular",
-        "class": "mdi:angular",
-        "level": "80"
-      },
-      {
         "name": "TypeScript",
         "class": "teenyicons:typescript-solid",
         "level": "90"
       },
       {
+        "name": "Angular",
+        "class": "mdi:angular",
+        "level": "80"
+      },
+      {
         "name": "React",
-        "class": "teenyicons:react",
+        "class": "teenyicons:react-solid",
         "level": "70"
       },
       {
-        "name": "Sass",
-        "class": "la:sass",
-        "level": "75"
+        "name": "Java",
+        "class": "vscode-icons:file-type-java",
+        "level": "70"
+      },
+      {
+        "name": "Quarkus",
+        "class": "devicon:quarkus",
+        "level": "70"
       },
       {
         "name": "Bootstrap",
         "class": "ri:bootstrap-fill",
         "level": "85"
-      },
-      {
-        "name": "C#",
-        "class": "devicon-plain:csharp",
-        "level": "65"
       },
       {
         "name": "MySql",
@@ -156,34 +176,69 @@
       }
     ]
   },
+  "tools": {
+    "title": "Outils",
+    "icons": [
+      {
+        "name": "Docker",
+        "class": "vscode-icons:file-type-docker",
+        "level": "60"
+      },
+      {
+        "name": "Git",
+        "class": "vscode-icons:file-type-git",
+        "level": "80"
+      },
+      {
+        "name": "VS Code",
+        "class": "vscode-icons:file-type-vscode",
+        "level": "85"
+      },
+      {
+        "name": "IntelliJ",
+        "class": "devicon:intellij",
+        "level": "70"
+      },
+      {
+        "name": "Postman",
+        "class": "vscode-icons:file-type-postman",
+        "level": "80"
+      }
+    ]
+  },
   "experience": {
     "title": "Experience",
     "experiences": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": "Angular 8/9/10",
-        "mainTechIcon": "mdi:angular",
+        "company": "Ineo E&S",
+        "title": "Développeur",
+        "years": "09/2022 - aujourd'hui",
+        "mainTech": "Application web de simulation",
+        "mainTechIcon": "mdi:react",
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "API REST",
+          "TypeScript",
+          "Java",
+          "Quarkus",
+          "Docker",
+          "Postman",
+          "Unix"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": "React",
-        "mainTechIcon": "mdi:react",
-        "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+        "company": "IUT de Blagnac",
+        "title": "Etudiant BUT",
+        "years": "09/2021 - 06/2024",
+        "mainTech": "Apprentissage de compétences",
+        "mainTechIcon": "teenyicons:school-solid",
+        "technologies": [
+          "Réaliser un développement d'application.",
+          "Optimiser des applications informatiques.",
+          "Administrer des systèmes informatiques communicants complexes.",
+          "Gérer des données de l'information.",
+          "Conduire un projet.",
+          "Travailler dans une équipe informatique."
+        ]
       }
     ]
   },
